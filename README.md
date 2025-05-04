@@ -1,4 +1,4 @@
-# 🌿 AI-Powered Crop Disease Detection System
+#  AI-Powered Crop Disease Detection System
 
 ## Project Overview
 This project implements a deep learning-based system for detecting plant diseases from leaf images. Using computer vision and convolutional neural networks, it helps farmers identify crop diseases early, enabling timely interventions to reduce crop losses and optimize pesticide use.
