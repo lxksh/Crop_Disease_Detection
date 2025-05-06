@@ -107,7 +107,7 @@ def get_weather():
     """Fetch weather data with better error handling and fallback options"""
     try:
         # Replace with your OpenWeatherMap API key
-        API_KEY = "eb223c0eeb5084da009ef6c409656e59"
+        API_KEY = "your_openWeatherApiKey"
         
         # First try to get location via IP
         try:
